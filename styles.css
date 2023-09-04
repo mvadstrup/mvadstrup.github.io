@@ -1,0 +1,21 @@
+/*
+ * Custom CSS
+ */
+
+ :root {
+    --bs-body-bg: var(--bs-gray-100);
+  }
+
+  /* General Website Style rules */
+body {
+  font-family: 'Noto Sans', sans-serif;
+  background-color: #FEFEFE;
+  color: #222222
+
+}
+h3 {
+  font-family: 'Indie Flower', cursive;
+  color: #C5D882
+
+
+}
