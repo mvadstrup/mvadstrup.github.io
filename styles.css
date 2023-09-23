@@ -9,13 +9,13 @@
   /* General Website Style rules */
 body {
   font-family: 'Noto Sans', sans-serif;
-  background-color: #FEFEFE;
-  color: #222222
+  color: #222222;
+
+  background-image: linear-gradient(180deg, var(--bs-secondary-bg), var(--bs-body-bg) 100px, var(--bs-body-bg));
+line-height: 25px;
 
 }
 h3 {
   font-family: 'Indie Flower', cursive;
-  color: #C5D882
-
-
+  color: #94c11c
 }
